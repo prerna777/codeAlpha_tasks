@@ -1,0 +1,79 @@
+# 🖼️ Responsive Image Gallery Project
+
+## 📌 Project Title
+Responsive Image Gallery with Lightbox and Filters
+
+---
+
+## 🎯 Aim
+To build a responsive image gallery using HTML, CSS, and JavaScript that supports lightbox viewing, next/previous navigation, hover effects, and category filtering.
+
+---
+
+## 📖 Description
+This project creates a modern image gallery displayed in a responsive grid layout.  
+Users can click on any image to open it in a lightbox popup. Navigation buttons allow moving to the next or previous image.  
+Hover effects and smooth transitions improve the visual experience. Category filter buttons help sort images.
+
+---
+
+## 🛠️ Technologies Used
+- HTML5 — Structure
+- CSS3 — Layout, styling, transitions
+- JavaScript — Interactivity and navigation
+
+---
+
+## ✨ Features
+- Responsive grid layout
+- Click to open lightbox view
+- Next / Previous navigation buttons
+- Hover zoom effect
+- Smooth animations
+- Category filter buttons
+- Mobile-friendly design
+
+---
+
+## ▶️ How to Run
+1. Download or copy the project file
+2. Save as `gallery.html`
+3. Open the file in any web browser
+4. Click an image to open preview
+5. Use navigation arrows to switch images
+6. Use filter buttons to sort images
+
+---
+
+## 🧠 Concepts Applied
+- CSS Grid
+- Media Queries
+- JavaScript DOM manipulation
+- Event handling
+- Image overlay (lightbox)
+- Transitions and transforms
+
+---
+
+## 📂 Project Files
+
+---
+
+## 🖥️ User Actions
+- Click image → Opens large preview
+- Click ❮ / ❯ → Navigate images
+- Click category buttons → Filter images
+- Hover image → Zoom effect
+
+---
+
+## 🚀 Future Enhancements
+- Add image captions
+- Add slideshow mode
+- Add image download option
+- Add animations
+
+---
+
+## 👤 Author
+Name: DHANASHRI CHAKRABORTY
